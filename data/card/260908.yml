@@ -2,13 +2,13 @@ about:
   description: "Mirror of CMake upstream repository"
   license: BSD-3-Clause
   homepage: https://gitlab.kitware.com/cmake/cmake
-  head: 2ee33f5
+  head: cfccbd4
   archived: false
   latestVersion: "v4.3.5"
-  collectedAt: 2026-09-08T01:46:46Z
+  collectedAt: 2026-09-08T04:30:40Z
 timeline:
   created: 2010-02-26
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
   lastRelease: 2026-09-04
 popularity:
   star: 8058
@@ -79,7 +79,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 183
+    commit: 184
   last60d:
     since: 2026-07-10
     release: 5
@@ -87,7 +87,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 651
+    commit: 652
   last90d:
     since: 2026-06-10
     release: 11
@@ -95,7 +95,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1068
+    commit: 1069
   last180d:
     since: 2026-03-12
     release: 21
@@ -103,7 +103,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2255
+    commit: 2256
   last360d:
     since: 2025-09-13
     release: 41
@@ -111,7 +111,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 4934
+    commit: 4935
   last720d:
     since: 2024-09-18
     release: 76
@@ -119,17 +119,17 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 9942
+    commit: 9943
 total:
   release: 332
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 77193
+  commit: 77194
 ---
 path: /home/runner/.x-repo/github.com/Kitware/CMake
-collectedAt: 2026-09-08T01:47:29Z
+collectedAt: 2026-09-08T04:31:30Z
 loc:
   C:
     code: 369543
