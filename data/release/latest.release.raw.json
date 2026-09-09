@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4291,
       "digest": "sha256:813a8569b168737a1ccef3572a469d66f01bb0ab4231bd243e15325dd53a8e77",
-      "download_count": 611,
+      "download_count": 641,
       "created_at": "2026-08-25T18:00:46Z",
       "updated_at": "2026-08-25T18:00:46Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-files-v1.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 52041275,
       "digest": "sha256:20e6d5590df7fd34de5c1d4eb2177f918bf64f8489845dc21036b2377e271d43",
-      "download_count": 690,
+      "download_count": 734,
       "created_at": "2026-08-25T18:00:47Z",
       "updated_at": "2026-08-25T18:00:49Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-linux-aarch64.sh"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 52036576,
       "digest": "sha256:2efc974dbd63b4444c0e8494b92f2e80c2d7e635b4b80eac2916985ddd8f72a6",
-      "download_count": 1346,
+      "download_count": 1441,
       "created_at": "2026-08-25T18:00:50Z",
       "updated_at": "2026-08-25T18:00:53Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 64875055,
       "digest": "sha256:6decbd2f268e48ed405c5b40563b0334c903209e61fe4ecad460b00c60b27e79",
-      "download_count": 6425,
+      "download_count": 7005,
       "created_at": "2026-08-25T18:00:54Z",
       "updated_at": "2026-08-25T18:00:56Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-linux-x86_64.sh"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 64872980,
       "digest": "sha256:d6c83076c575bc00b823522ac974bda66d0af05d6ddc30e739c12385cf32c6cc",
-      "download_count": 37735,
+      "download_count": 41300,
       "created_at": "2026-08-25T18:00:58Z",
       "updated_at": "2026-08-25T18:01:01Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-linux-x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 90651110,
       "digest": "sha256:0423c5c00f71fb8e7be281afa834137c5f95a5791a125beec7939eef45bcfc94",
-      "download_count": 4628,
+      "download_count": 4820,
       "created_at": "2026-08-25T18:01:02Z",
       "updated_at": "2026-08-25T18:01:06Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-macos-universal.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 89445170,
       "digest": "sha256:0c5d65251c14cc884bfa16bdbed3c263ce5bffe2e21c0d0d00962cb0610464fa",
-      "download_count": 6203,
+      "download_count": 6685,
       "created_at": "2026-08-25T18:01:07Z",
       "updated_at": "2026-08-25T18:01:10Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-macos-universal.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 88117309,
       "digest": "sha256:792cb80629a6971571c361bc3e1ec0312cfa14dd251b0ecee7a144497f00e570",
-      "download_count": 700,
+      "download_count": 724,
       "created_at": "2026-08-25T18:01:11Z",
       "updated_at": "2026-08-25T18:01:14Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-macos10.10-universal.dmg"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 86700547,
       "digest": "sha256:217a8c7bef7b70e8f9dc3748e625b92b19732b3eb26f6d99f23ef3f2768a8665",
-      "download_count": 1345,
+      "download_count": 1459,
       "created_at": "2026-08-25T18:01:14Z",
       "updated_at": "2026-08-25T18:01:18Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-macos10.10-universal.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2015,
       "digest": "sha256:1726140f0b13bf99e4ad4e89389d5aed758e1658ebfe1ed4aa2c2b32dde839f5",
-      "download_count": 3549,
+      "download_count": 3739,
       "created_at": "2026-08-25T18:01:19Z",
       "updated_at": "2026-08-25T18:01:19Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-SHA-256.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:ef0c8639a28e5d85ddbed2b625e556225d54be3b7092807fdb48475fd24ed031",
-      "download_count": 791,
+      "download_count": 842,
       "created_at": "2026-08-25T18:01:20Z",
       "updated_at": "2026-08-25T18:01:20Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-SHA-256.txt.asc"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 46961745,
       "digest": "sha256:91a60910f2591ab8716f24039665b3180ffd9dc85dea1b386602c27b2d02d0a6",
-      "download_count": 115,
+      "download_count": 116,
       "created_at": "2026-08-25T18:01:21Z",
       "updated_at": "2026-08-25T18:01:24Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-sunos-sparc64.sh"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 46961009,
       "digest": "sha256:a377b237d0375037a5e41e884f2ebad4b76536bb7b7261500de131b5f4d48fb3",
-      "download_count": 270,
+      "download_count": 280,
       "created_at": "2026-08-25T18:01:24Z",
       "updated_at": "2026-08-25T18:01:27Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-sunos-sparc64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 49137666,
       "digest": "sha256:806cd5db31c4493abc6308849981721b313319fb5b2d23331091cc68697e88c1",
-      "download_count": 154,
+      "download_count": 156,
       "created_at": "2026-08-25T18:01:28Z",
       "updated_at": "2026-08-25T18:01:30Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-sunos-x86_64.sh"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 49135959,
       "digest": "sha256:8f846f74aca248c77e3ad7caaca5b86170661fcef0afb4c47f7f3e37887492fa",
-      "download_count": 277,
+      "download_count": 288,
       "created_at": "2026-08-25T18:01:31Z",
       "updated_at": "2026-08-25T18:01:33Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-sunos-x86_64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 37212160,
       "digest": "sha256:417c4cd9c7e699aada088a2ebf63d3e9ec2cedb1ab2e2d2d687781005d686bf9",
-      "download_count": 1711,
+      "download_count": 1779,
       "created_at": "2026-08-25T18:01:34Z",
       "updated_at": "2026-08-25T18:01:36Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-arm64.msi"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 52561255,
       "digest": "sha256:7b410ddd00e24c7250eec7452da2348a4a70437aa87e9cda0a20d6a85662fcff",
-      "download_count": 644,
+      "download_count": 672,
       "created_at": "2026-08-25T18:01:37Z",
       "updated_at": "2026-08-25T18:01:39Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-arm64.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 36552704,
       "digest": "sha256:d999596e3f3fd1ac3a5eea62362b89dd71691122e25a187998cca348e574dc00",
-      "download_count": 1367,
+      "download_count": 1409,
       "created_at": "2026-08-25T18:01:40Z",
       "updated_at": "2026-08-25T18:01:41Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-i386.msi"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 50822149,
       "digest": "sha256:018024d05e2fc77d386046da87f90345f9beea21e35c5c8ab02fd15421b7da18",
-      "download_count": 739,
+      "download_count": 768,
       "created_at": "2026-08-25T18:01:42Z",
       "updated_at": "2026-08-25T18:01:44Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-i386.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 39161856,
       "digest": "sha256:f3b27c83979727b73540db53dbe610967656b4631746a94b17a1dd0329dd7868",
-      "download_count": 96197,
+      "download_count": 101298,
       "created_at": "2026-08-25T18:01:45Z",
       "updated_at": "2026-08-25T18:01:47Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-x86_64.msi"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 54408599,
       "digest": "sha256:4d52ebab7193a698651639ed80d8d04fd903358843572cf44c7fd234cb7c26ab",
-      "download_count": 27502,
+      "download_count": 29343,
       "created_at": "2026-08-25T18:01:47Z",
       "updated_at": "2026-08-25T18:01:49Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-x86_64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 13288228,
       "digest": "sha256:c46400618b4f1f2b43507f24fb22f3ae830c3416cf23b776e16e1d413aa892f0",
-      "download_count": 120782,
+      "download_count": 129692,
       "created_at": "2026-08-25T18:01:50Z",
       "updated_at": "2026-08-25T18:01:51Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 24342186,
       "digest": "sha256:bc2cc41a1097e5e8b58902209dba880d0dc3361779cb7600f5e8a92eedb45e01",
-      "download_count": 12416,
+      "download_count": 13149,
       "created_at": "2026-08-25T18:01:52Z",
       "updated_at": "2026-08-25T18:01:53Z",
       "browser_download_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3.zip"
