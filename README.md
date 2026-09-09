@@ -7,7 +7,7 @@ Mirror of CMake upstream repository
 - **Latest release**: `v4.3.5` (2026-09-04)
 - **Last commit**: 2026-09-09
 - **License**: BSD-3-Clause
-- **Stars**: 8063 · **Forks**: 2703 · **Open issues**: 0 · **Contributors**: 1516
+- **Stars**: 8064 · **Forks**: 2702 · **Open issues**: 0 · **Contributors**: 1517
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/CMake> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:37:36Z._
+_Last regenerated: 2026-09-09T18:50:16Z._
