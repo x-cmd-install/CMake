@@ -12,6 +12,28 @@ Mirror of CMake upstream repository
 x install CMake
 ```
 
+## Code insight
+
+Total: **1,257,358** lines of code across **19711** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 369,543 | 71,168 | 57,716 | 1779 |
+| Cpp | 305,704 | 25,406 | 39,520 | 2019 |
+| CMake | 269,339 | 25,557 | 50,914 | 11735 |
+| CHeader | 115,943 | 55,236 | 25,649 | 1687 |
+| ReStructuredText | 82,225 | 0 | 29,299 | 2491 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## Source
 
 - **Upstream**: <https://github.com/Kitware/CMake>
@@ -23,6 +45,25 @@ x install CMake
 - **Latest**: `v4.3.5` (2026-09-04)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 23
+
+## Popularity
+
+- **Stars**: 8,069 · **Forks**: 2,702 · **Open issues**: 0 · **Contributors**: 1,517
+
+## Totals (cumulative)
+
+- **Releases**: 332 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 77219
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 209 |
+| last60d | 2026-07-13 | 5 | 0 | 0 | 0 | 0 | 677 |
+| 90d | 2026-06-13 | 10 | 0 | 0 | 0 | 0 | 1094 |
+| last180d | 2026-03-15 | 21 | 0 | 0 | 0 | 0 | 2281 |
+| 360d | 2025-09-16 | 41 | 0 | 0 | 0 | 0 | 4960 |
+| last720d | 2024-09-21 | 76 | 0 | 0 | 0 | 0 | 9904 |
 
 ## Release assets
 
@@ -52,44 +93,6 @@ x install CMake
 | [cmake-4.4.3.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3.tar.gz) | 12.7 MiB | `native/unknown` |
 | [cmake-4.4.3.zip](https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3.zip) | 23.2 MiB | `other` |
 
-## Popularity
-
-- **Stars**: 8,065 · **Forks**: 2,702 · **Open issues**: 0 · **Contributors**: 1,517
-
-## Totals (cumulative)
-
-- **Releases**: 332 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 77219
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 209 |
-| 90d | 2026-06-12 | 10 | 0 | 0 | 0 | 0 | 1094 |
-| 360d | 2025-09-15 | 41 | 0 | 0 | 0 | 0 | 4960 |
-
-## Code size
-
-Total: **1,257,358** lines of code across **19711** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 369,543 | 71,168 | 57,716 | 1779 |
-| Cpp | 305,704 | 25,406 | 39,520 | 2019 |
-| CMake | 269,339 | 25,557 | 50,914 | 11735 |
-| CHeader | 115,943 | 55,236 | 25,649 | 1687 |
-| ReStructuredText | 82,225 | 0 | 29,299 | 2491 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.6 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
-
 ## Improve this data
 
 Install metadata for CMake lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `CMake` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +102,4 @@ Install metadata for CMake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:39Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:06Z._

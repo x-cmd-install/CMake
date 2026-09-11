@@ -12,6 +12,28 @@ Mirror of CMake upstream repository
 x install CMake
 ```
 
+## 代码洞察
+
+合计: **1,257,358** 行代码（覆盖前 5 种语言、共 **19711** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| C | 369,543 | 71,168 | 57,716 | 1779 |
+| Cpp | 305,704 | 25,406 | 39,520 | 2019 |
+| CMake | 269,339 | 25,557 | 50,914 | 11735 |
+| CHeader | 115,943 | 55,236 | 25,649 | 1687 |
+| ReStructuredText | 82,225 | 0 | 29,299 | 2491 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **3.6 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/Kitware/CMake>
@@ -23,6 +45,25 @@ x install CMake
 - **最新版本**: `v4.3.5` (2026-09-04)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 23 个
+
+## 流行度
+
+- **Star**: 8,069 · **Fork**: 2,702 · **开放 issue**: 0 · **贡献者**: 1,517
+
+## 累计统计
+
+- **发布数**: 332 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 77219
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 209 |
+| last60d | 2026-07-13 | 5 | 0 | 0 | 0 | 0 | 677 |
+| 90d | 2026-06-13 | 10 | 0 | 0 | 0 | 0 | 1094 |
+| last180d | 2026-03-15 | 21 | 0 | 0 | 0 | 0 | 2281 |
+| 360d | 2025-09-16 | 41 | 0 | 0 | 0 | 0 | 4960 |
+| last720d | 2024-09-21 | 76 | 0 | 0 | 0 | 0 | 9904 |
 
 ## Release 资产
 
@@ -52,44 +93,6 @@ x install CMake
 | [cmake-4.4.3.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3.tar.gz) | 12.7 MiB | `native/unknown` |
 | [cmake-4.4.3.zip](https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3.zip) | 23.2 MiB | `other` |
 
-## 流行度
-
-- **Star**: 8,065 · **Fork**: 2,702 · **开放 issue**: 0 · **贡献者**: 1,517
-
-## 累计统计
-
-- **发布数**: 332 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 77219
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 209 |
-| 90d | 2026-06-12 | 10 | 0 | 0 | 0 | 0 | 1094 |
-| 360d | 2025-09-15 | 41 | 0 | 0 | 0 | 0 | 4960 |
-
-## 代码规模
-
-合计: **1,257,358** 行代码（覆盖前 5 种语言、共 **19711** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| C | 369,543 | 71,168 | 57,716 | 1779 |
-| Cpp | 305,704 | 25,406 | 39,520 | 2019 |
-| CMake | 269,339 | 25,557 | 50,914 | 11735 |
-| CHeader | 115,943 | 55,236 | 25,649 | 1687 |
-| ReStructuredText | 82,225 | 0 | 29,299 | 2491 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **3.6 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
-
 ## 改进这些数据
 
 CMake 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `CMake` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +102,4 @@ CMake 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:41Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:21:07Z._
