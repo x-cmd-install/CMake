@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.3.5` (2026-09-04)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 8,098 · **Forks**: 2,706 · **Open issues**: 0 · **Contributors**: 1,518
+- **Stars**: 8,099 · **Forks**: 2,706 · **Open issues**: 0 · **Contributors**: 1,518
 
 ## Totals (cumulative)
 
-- **Releases**: 332 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 77321
+- **Releases**: 332 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 77322
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 3 | 0 | 0 | 0 | 0 | 212 |
-| last60d | 2026-07-22 | 5 | 0 | 0 | 0 | 0 | 535 |
-| 90d | 2026-06-22 | 7 | 0 | 0 | 0 | 0 | 984 |
-| last180d | 2026-03-24 | 20 | 0 | 0 | 0 | 0 | 2188 |
-| 360d | 2025-09-25 | 40 | 0 | 0 | 0 | 0 | 4825 |
-| last720d | 2024-09-30 | 75 | 0 | 0 | 0 | 0 | 9941 |
+| 30d | 2026-08-22 | 3 | 0 | 0 | 0 | 0 | 213 |
+| last60d | 2026-07-23 | 5 | 0 | 0 | 0 | 0 | 536 |
+| 90d | 2026-06-23 | 7 | 0 | 0 | 0 | 0 | 985 |
+| last180d | 2026-03-25 | 20 | 0 | 0 | 0 | 0 | 2189 |
+| 360d | 2025-09-26 | 40 | 0 | 0 | 0 | 0 | 4826 |
+| last720d | 2024-10-01 | 75 | 0 | 0 | 0 | 0 | 9934 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for CMake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:59:45Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:01:57Z._
