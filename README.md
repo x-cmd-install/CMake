@@ -14,15 +14,15 @@ x install CMake
 
 ## Code insight
 
-Total: **1,283,547** lines of code across **20388** files in the top 5 languages.
+Total: **1,284,059** lines of code across **20396** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 371,370 | 71,728 | 57,856 | 1801 |
-| Cpp | 313,417 | 25,436 | 39,650 | 2079 |
-| CMake | 280,732 | 26,653 | 52,300 | 12273 |
+| Cpp | 313,841 | 25,482 | 39,695 | 2081 |
+| CMake | 280,778 | 26,654 | 52,309 | 12278 |
 | CHeader | 117,058 | 55,753 | 25,937 | 1718 |
-| ReStructuredText | 84,970 | 0 | 30,392 | 2517 |
+| ReStructuredText | 85,011 | 0 | 30,406 | 2518 |
 
 ## OpenSSF Scorecard
 
@@ -30,9 +30,9 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Security-Policy** (0/10) — security policy file not detected
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.5.0-rc1` (2026-10-02)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 8,128 · **Forks**: 2,709 · **Open issues**: 0 · **Contributors**: 1,520
+- **Stars**: 8,130 · **Forks**: 2,709 · **Open issues**: 0 · **Contributors**: 1,520
 
 ## Totals (cumulative)
 
-- **Releases**: 334 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 77771
+- **Releases**: 334 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 77818
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 0 | 0 | 0 | 0 | 261 |
-| last60d | 2026-08-20 | 5 | 0 | 0 | 0 | 0 | 569 |
-| 90d | 2026-07-21 | 7 | 0 | 0 | 0 | 0 | 928 |
-| last180d | 2026-04-22 | 15 | 0 | 0 | 0 | 0 | 2139 |
-| 360d | 2025-10-24 | 40 | 0 | 0 | 0 | 0 | 4689 |
-| last720d | 2024-10-29 | 74 | 0 | 0 | 0 | 0 | 10012 |
+| 30d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 305 |
+| last60d | 2026-08-21 | 5 | 0 | 0 | 0 | 0 | 613 |
+| 90d | 2026-07-22 | 7 | 0 | 0 | 0 | 0 | 972 |
+| last180d | 2026-04-23 | 15 | 0 | 0 | 0 | 0 | 2183 |
+| 360d | 2025-10-25 | 40 | 0 | 0 | 0 | 0 | 4733 |
+| last720d | 2024-10-30 | 73 | 0 | 0 | 0 | 0 | 10029 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for CMake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:40:54Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:58:25Z._
