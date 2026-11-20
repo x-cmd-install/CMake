@@ -14,15 +14,15 @@ x install CMake
 
 ## Code insight
 
-Total: **1,304,079** lines of code across **21102** files in the top 5 languages.
+Total: **1,304,295** lines of code across **21111** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 373,812 | 72,375 | 58,122 | 1819 |
-| Cpp | 318,956 | 25,884 | 40,052 | 2110 |
-| CMake | 287,533 | 27,396 | 53,118 | 12632 |
+| Cpp | 318,965 | 25,888 | 40,052 | 2112 |
+| CMake | 287,739 | 27,408 | 53,138 | 12639 |
 | CHeader | 118,112 | 56,148 | 26,214 | 1738 |
-| ReStructuredText | 88,878 | 0 | 32,106 | 2803 |
+| ReStructuredText | 88,879 | 0 | 32,106 | 2803 |
 
 ## OpenSSF Scorecard
 
@@ -42,56 +42,56 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.5.0` (2026-11-12)
-- **Last commit**: 2026-11-19
+- **Latest**: `v4.5.1` (2026-11-19)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 8,166 · **Forks**: 2,710 · **Open issues**: 0 · **Contributors**: 1,529
+- **Stars**: 8,170 · **Forks**: 2,713 · **Open issues**: 0 · **Contributors**: 1,529
 
 ## Totals (cumulative)
 
-- **Releases**: 339 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 78548
+- **Releases**: 340 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 78563
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 5 | 0 | 0 | 0 | 0 | 609 |
-| last60d | 2026-09-20 | 7 | 0 | 0 | 0 | 0 | 1060 |
-| 90d | 2026-08-21 | 10 | 0 | 0 | 0 | 0 | 1362 |
-| last180d | 2026-05-23 | 18 | 0 | 0 | 0 | 0 | 2567 |
-| 360d | 2025-11-24 | 38 | 0 | 0 | 0 | 0 | 4998 |
-| last720d | 2024-11-29 | 74 | 0 | 0 | 0 | 0 | 10395 |
+| 30d | 2026-10-21 | 6 | 0 | 0 | 0 | 0 | 623 |
+| last60d | 2026-09-21 | 8 | 0 | 0 | 0 | 0 | 1074 |
+| 90d | 2026-08-22 | 11 | 0 | 0 | 0 | 0 | 1376 |
+| last180d | 2026-05-24 | 19 | 0 | 0 | 0 | 0 | 2581 |
+| 360d | 2025-11-25 | 39 | 0 | 0 | 0 | 0 | 5012 |
+| last720d | 2024-11-30 | 75 | 0 | 0 | 0 | 0 | 10397 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cmake-4.5.0-files-v1.json](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-files-v1.json) | 4.2 KiB | `other` |
-| [cmake-4.5.0-linux-aarch64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-linux-aarch64.sh) | 51.2 MiB | `native/linux/arm64` |
-| [cmake-4.5.0-linux-aarch64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-linux-aarch64.tar.gz) | 51.2 MiB | `native/linux/arm64` |
-| [cmake-4.5.0-linux-x86_64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-linux-x86_64.sh) | 63.9 MiB | `native/linux/x64` |
-| [cmake-4.5.0-linux-x86_64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-linux-x86_64.tar.gz) | 63.9 MiB | `native/linux/x64` |
-| [cmake-4.5.0-macos-universal.dmg](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-macos-universal.dmg) | 89.8 MiB | `native/darwin/x64` |
-| [cmake-4.5.0-macos-universal.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-macos-universal.tar.gz) | 88.5 MiB | `native/darwin/x64` |
-| [cmake-4.5.0-macos10.10-universal.dmg](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-macos10.10-universal.dmg) | 87.0 MiB | `native/darwin/x64` |
-| [cmake-4.5.0-macos10.10-universal.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-macos10.10-universal.tar.gz) | 85.7 MiB | `native/darwin/x64` |
-| [cmake-4.5.0-SHA-256.txt](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-SHA-256.txt) | 2.0 KiB | `other` |
-| [cmake-4.5.0-SHA-256.txt.asc](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-SHA-256.txt.asc) | 833 B | `other` |
-| [cmake-4.5.0-sunos-sparc64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-sunos-sparc64.sh) | 46.6 MiB | `other` |
-| [cmake-4.5.0-sunos-sparc64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-sunos-sparc64.tar.gz) | 46.6 MiB | `native/unknown` |
-| [cmake-4.5.0-sunos-x86_64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-sunos-x86_64.sh) | 48.7 MiB | `other` |
-| [cmake-4.5.0-sunos-x86_64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-sunos-x86_64.tar.gz) | 48.7 MiB | `native/linux/x64` |
-| [cmake-4.5.0-windows-arm64.msi](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-windows-arm64.msi) | 36.6 MiB | `native/win/arm64` |
-| [cmake-4.5.0-windows-arm64.zip](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-windows-arm64.zip) | 51.9 MiB | `native/win/arm64` |
-| [cmake-4.5.0-windows-i386.msi](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-windows-i386.msi) | 36.1 MiB | `native/win/x64` |
-| [cmake-4.5.0-windows-i386.zip](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-windows-i386.zip) | 50.3 MiB | `native/win/x64` |
-| [cmake-4.5.0-windows-x86_64.msi](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-windows-x86_64.msi) | 38.5 MiB | `native/win/x64` |
-| [cmake-4.5.0-windows-x86_64.zip](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0-windows-x86_64.zip) | 53.7 MiB | `native/win/x64` |
-| [cmake-4.5.0.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0.tar.gz) | 13.3 MiB | `native/unknown` |
-| [cmake-4.5.0.zip](https://github.com/Kitware/CMake/releases/download/v4.5.0/cmake-4.5.0.zip) | 24.5 MiB | `other` |
+| [cmake-4.5.1-files-v1.json](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-files-v1.json) | 4.2 KiB | `other` |
+| [cmake-4.5.1-linux-aarch64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-linux-aarch64.sh) | 51.2 MiB | `native/linux/arm64` |
+| [cmake-4.5.1-linux-aarch64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-linux-aarch64.tar.gz) | 51.2 MiB | `native/linux/arm64` |
+| [cmake-4.5.1-linux-x86_64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-linux-x86_64.sh) | 63.9 MiB | `native/linux/x64` |
+| [cmake-4.5.1-linux-x86_64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-linux-x86_64.tar.gz) | 63.9 MiB | `native/linux/x64` |
+| [cmake-4.5.1-macos-universal.dmg](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-macos-universal.dmg) | 89.8 MiB | `native/darwin/x64` |
+| [cmake-4.5.1-macos-universal.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-macos-universal.tar.gz) | 88.5 MiB | `native/darwin/x64` |
+| [cmake-4.5.1-macos10.10-universal.dmg](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-macos10.10-universal.dmg) | 87.0 MiB | `native/darwin/x64` |
+| [cmake-4.5.1-macos10.10-universal.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-macos10.10-universal.tar.gz) | 85.7 MiB | `native/darwin/x64` |
+| [cmake-4.5.1-SHA-256.txt](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-SHA-256.txt) | 2.0 KiB | `other` |
+| [cmake-4.5.1-SHA-256.txt.asc](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-SHA-256.txt.asc) | 833 B | `other` |
+| [cmake-4.5.1-sunos-sparc64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-sunos-sparc64.sh) | 46.6 MiB | `other` |
+| [cmake-4.5.1-sunos-sparc64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-sunos-sparc64.tar.gz) | 46.6 MiB | `native/unknown` |
+| [cmake-4.5.1-sunos-x86_64.sh](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-sunos-x86_64.sh) | 48.7 MiB | `other` |
+| [cmake-4.5.1-sunos-x86_64.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-sunos-x86_64.tar.gz) | 48.7 MiB | `native/linux/x64` |
+| [cmake-4.5.1-windows-arm64.msi](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-windows-arm64.msi) | 36.5 MiB | `native/win/arm64` |
+| [cmake-4.5.1-windows-arm64.zip](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-windows-arm64.zip) | 51.8 MiB | `native/win/arm64` |
+| [cmake-4.5.1-windows-i386.msi](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-windows-i386.msi) | 36.3 MiB | `native/win/x64` |
+| [cmake-4.5.1-windows-i386.zip](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-windows-i386.zip) | 50.6 MiB | `native/win/x64` |
+| [cmake-4.5.1-windows-x86_64.msi](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-windows-x86_64.msi) | 38.7 MiB | `native/win/x64` |
+| [cmake-4.5.1-windows-x86_64.zip](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1-windows-x86_64.zip) | 54.0 MiB | `native/win/x64` |
+| [cmake-4.5.1.tar.gz](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1.tar.gz) | 13.3 MiB | `native/unknown` |
+| [cmake-4.5.1.zip](https://github.com/Kitware/CMake/releases/download/v4.5.1/cmake-4.5.1.zip) | 24.5 MiB | `other` |
 
 ## Improve this data
 
@@ -102,4 +102,4 @@ Install metadata for CMake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:36:03Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:12:48Z._
